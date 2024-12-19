@@ -298,8 +298,8 @@ nav li{
     .main img, 
     .project img {
         max-width: 100%;
-        max-height: 800px; /* Allow larger height for desktop screens */
-        object-fit: cover; /* Crop to fill the frame for larger screens */
+        max-height: 800px;
+        
     }
 
 }
@@ -323,8 +323,8 @@ nav li{
     .main img, 
     .project img {
         max-width: 100%;
-        max-height: 800px; /* Allow larger height for desktop screens */
-        object-fit: cover; /* Crop to fill the frame for larger screens */
+        max-height: 800px; 
+        
     }
 
 }
